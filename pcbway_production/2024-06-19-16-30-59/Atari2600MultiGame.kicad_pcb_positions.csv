@@ -1,0 +1,9 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+88.635209,-78.607153,0.0,top,J1,,2600_Cartridge_Port,2600_Cartridge_Port,tht,True
+87.262515,-58.112114,90.0,bottom,R1,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10K,tht,True
+90.595487,-58.175401,90.0,bottom,R2,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10K,tht,True
+93.815632,-58.175401,90.0,bottom,R3,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10K,tht,True
+97.054477,-58.173214,90.0,bottom,R4,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10K,tht,True
+100.208718,-33.123143,-90.0,bottom,SW1,,SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile,SW_DIP_x04,tht,True
+119.635291,-46.480756,-90.0,top,U2,,DIP-28_W15.24mm,27C512,tht,True
+93.969209,-36.109153,90.0,bottom,U3,,SOT-23-5_HandSoldering,74LVC1G04,smt,True

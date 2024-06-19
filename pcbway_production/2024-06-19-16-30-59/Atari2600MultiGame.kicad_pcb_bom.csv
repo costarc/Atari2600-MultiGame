@@ -1,0 +1,6 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+J1,1,2600_Cartridge_Port,2600_Cartridge_Port,,tht
+"R1, R2, R3, R4",4,10K,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,tht
+SW1,1,SW_DIP_x04,SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile,,tht
+U2,1,27C512,DIP-28_W15.24mm,,tht
+U3,1,74LVC1G04,SOT-23-5_HandSoldering,,smt
