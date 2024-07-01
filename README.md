@@ -13,5 +13,5 @@ cat 2kgame.bin >  4kgame.bin<br>
 cat 2kgame.bin >> 4kgame.bin<br>
 </code>
 <br>
-The PCB supports 37C512 ROMs and EPROMS supoprts up to 16 games switchable via the DIP Switch at the back of the cartridge.
+The PCB supports 27C512 ROMs and EPROMS and can hold up to 16 games, switchable via the DIP Switch at the back of the cartridge.
 
