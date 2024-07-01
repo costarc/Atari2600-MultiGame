@@ -2,7 +2,7 @@
 
 Bill of material
 --
-Bill of Material is in interactive mode - click on file https://github.com/costarc/Atari2600-MultiGame/blob/master/ibom.html
+Bill of Material is in interactive mode - click on file https://github.com/costarc/Atari2600-MultiGame/blob/master/ibom.html (you may need to download to your local computer to see it properly)
 
 # Description
 
